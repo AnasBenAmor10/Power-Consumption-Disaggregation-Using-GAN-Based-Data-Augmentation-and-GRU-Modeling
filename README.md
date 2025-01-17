@@ -247,4 +247,10 @@ Despite the improvements, some challenges remain:
 
 ## 🏁 Conclusion
 
-The implementation
+The implementation of GAN-based synthetic data generation demonstrated its effectiveness in addressing the limitations of an imbalanced dataset for load disaggregation tasks. By integrating realistic synthetic data into the original dataset, the model achieved significant improvements in precision, recall, and overall accuracy. These results underscore the potential of GANs to enhance the performance of energy disaggregation models and pave the way for further research in the field.
+
+## Contributors
+
+<a href="https://github.com/AymenKtari01/Power-Consumption-Disaggregation-Using-GAN-Based-Data-Augmentation-and-GRU-Modeling?tab=readme-ov-file/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=AymenKtari01/Power-Consumption-Disaggregation-Using-GAN-Based-Data-Augmentation-and-GRU-Modeling" />
+</a>
