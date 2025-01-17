@@ -1,4 +1,4 @@
-# Power-Consumption-Disaggregation-Using-GAN-Based-Data-Augmentation-and-GRU-Modeling
+# ⚡ Power-Consumption-Disaggregation-Using-GAN-Based-Data-Augmentation-and-GRU-Modeling
 
 ## 📝 Table of Contents
 
